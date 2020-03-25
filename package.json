@@ -1,0 +1,11 @@
+{
+  "name": "managingschedule",
+  "version": "1.0.0",
+  "description": "schedule test",
+  "main": "index.js",
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
